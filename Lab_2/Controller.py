@@ -1,11 +1,3 @@
-
-"""
-SELECT column_name
-FROM INFORMATION_SCHEMA.COLUMNS
-WHERE TABLE_NAME = 'Users' //check names of column
-"""
-
-
 import backend_sql as bs
 import sys, os
 import time
